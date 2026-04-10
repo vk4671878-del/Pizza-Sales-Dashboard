@@ -41,7 +41,9 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 ## 🎥 Dashboard Demo
 
-[![Watch Video](dashboard_preview.png)](pizza_dashboard_demo.mp4)
+## 🎥 Dashboard Demo
+
+[![Watch Demo](dashboard_preview.png)](https://www.linkedin.com/posts/vivek-gangwar-996593269_dataanalytics-excel-dashboard-ugcPost-7447837602973609984-d-3P?utm_source=share&utm_medium=member_android&rcm=ACoAAEHCfsIB1wJ8VB6cRgiyK06Qa5-Kai0CcsQ)
 
 ---
 
