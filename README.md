@@ -37,7 +37,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## 🎥 Dashboard Demo Video
 [Watch the Dashboard Demo]()
