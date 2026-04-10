@@ -42,6 +42,10 @@ The goal of this project is to transform raw sales data into meaningful insights
 ## 🎥 Dashboard Demo Video
 [Watch the Dashboard Demo]()
 
+## 🎥 Dashboard Demo
+
+[![Watch Video](dashboard_preview.png)](pizza%20dashboard%20short%20video.mp4)
+
 ---
 
 ## ✨ Features
